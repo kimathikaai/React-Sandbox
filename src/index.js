@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import MyComponent from './components/forms/Reservation';
+import MyComponent from './components/liftingStateUp/BoilingVerdict';
 
 ReactDOM.render(
     <MyComponent />,
